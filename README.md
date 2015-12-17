@@ -1,0 +1,1 @@
+# Mandatory weekly exercises for 02393
